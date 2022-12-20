@@ -40,3 +40,8 @@
 - Library Management System directory is the front end part built using Spring MVC + Spring Boot + Thyme Leaf as template engine.
 - - PORT USED : 8085
     > https:localhost:8085/
+
+## Snapshots
+![Home Page](images/Home%20Page.png)
+![Add Book](images/Add%20Book.png)
+![Update Book](images/Update%20Book.png)
