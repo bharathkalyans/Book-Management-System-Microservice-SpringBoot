@@ -18,3 +18,24 @@ spring:
 
 server:
   port: 8999
+
+
+# #Database
+# spring:
+#   datasource:
+#     driver-class-name: org.postgresql.Driver
+#     url: jdbc:postgresql://localhost:5432/amigoscode
+#     username: postgres
+#     password: 
+
+
+#   jpa:
+#     properties:
+#       hibernate:
+#         dialect:  org.hibernate.dialect.PostgreSQLDialect
+#     show-sql: true
+#     hibernate:
+#       ddl-auto: update
+
+# #server:
+# #  port: 8999
