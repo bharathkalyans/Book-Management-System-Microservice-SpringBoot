@@ -4,7 +4,7 @@
 
 - - Spring Boot
   - Spring MVC
-  - SPring JPA (MySQL)
+  - Spring JPA (MySQL)
   - Thyme Leaf
   - HTML
   - CSS
