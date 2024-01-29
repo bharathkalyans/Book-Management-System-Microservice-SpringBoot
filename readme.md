@@ -1,6 +1,4 @@
-# BOOK MANAGEMENT SYSTEM
-
-### Tech Stack
+# Book Buddy
 
 - - Spring Boot
   - Spring MVC
